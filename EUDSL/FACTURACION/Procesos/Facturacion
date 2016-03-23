@@ -1,0 +1,15 @@
+Emision de Facturas
+Emision de Facturas
+Gestion
+Factura
+Comprobante,Cliente
+DetalleFactura
+Invoice=*
+NoVisibleSelectorFactura=Tipo,Nombre
+NoVisibleSelectorFactura=Tipo,Nombre
+NoEditableFactura=Total,Neto,Iva
+NoVisibleFactura=Tipo,Nombre
+NoVisibleDetalleFactura=Nombre
+RestringeFactura=Modificar,Eliminar
+Operacion=Anular
+TotalDetalleFactura=Neto,Iva,Total
